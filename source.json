@@ -1,0 +1,34 @@
+{
+  "name": "Horse Labo",
+  "subtitle": "Horse Labo iOS application releases",
+  "description": "SideStore distribution source for Horse Labo.",
+  "iconURL": "https://autiv-admin.github.io/horse-labo-release/assets/icon.png",
+  "website": "https://autiv-admin.github.io/horse-labo-release/",
+  "apps": [
+    {
+      "name": "ホースラボ",
+      "bundleIdentifier": "jp.autiv.horselabo",
+      "developerName": "Autiv",
+      "subtitle": "競走馬研究・情報管理アプリ",
+      "localizedDescription": "馬体、血統、測尺、評価、プロット、研究情報を管理するアプリです。",
+      "iconURL": "https://autiv-admin.github.io/horse-labo-release/assets/icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-07-23T16:33:12Z",
+          "localizedDescription": "SideStore更新配布の初期登録版。iOS用三本線メニューを追加。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.1/HorseLabo-0.1.1.ipa",
+          "size": 975787,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
