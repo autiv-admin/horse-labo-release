@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.2",
+          "buildVersion": "3",
+          "date": "2026-07-24T04:44:52Z",
+          "localizedDescription": "Source経由更新・データ維持テスト版。メニューに更新確認用 v0.1.2 表示を追加。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.2/HorseLabo-0.1.2.ipa",
+          "size": 975981,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "2",
           "date": "2026-07-23T16:33:12Z",
