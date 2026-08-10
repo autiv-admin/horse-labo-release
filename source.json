@@ -16,6 +16,15 @@
       "versions": [
         {
           "version": "0.1.3",
+          "buildVersion": "6",
+          "date": "2026-08-10T15:49:53Z",
+          "localizedDescription": "バージョン 0.1.3 (build 6)",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.3/HorseLabo-0.1.3-build6.ipa",
+          "size": 4161941,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.1.3",
           "buildVersion": "5",
           "date": "2026-08-10T14:46:59Z",
           "localizedDescription": "バージョン 0.1.3 (build 5)：iPhone/iPad単体でAIを実行できるようにしました（パソコンやAIサーバーは不要）。OpenAI APIキーは端末のキーチェーンへ安全に保存します。設定画面に「アプリ情報（診断用）」を追加し、いま動いているビルドとAIの状態を確認できます。",
