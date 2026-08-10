@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.5",
+          "buildVersion": "12",
+          "date": "2026-08-10T17:04:26Z",
+          "localizedDescription": "バージョン 0.1.5 (build 12)。機能内容は build 11 と同一・保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.5/HorseLabo-0.1.5-build12.ipa",
+          "size": 4261214,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "11",
           "date": "2026-08-10T16:58:55Z",
