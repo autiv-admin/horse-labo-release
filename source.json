@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.16",
+          "buildVersion": "24",
+          "date": "2026-08-14T15:24:46Z",
+          "localizedDescription": "バージョン 0.1.16 (build 24)。カタログ写真の全枚数表示・ベース追従のアスペクト比修正。保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.16/HorseLabo-0.1.16-build24.ipa",
+          "size": 4305163,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.15",
           "buildVersion": "23",
           "date": "2026-08-14T14:04:07Z",
