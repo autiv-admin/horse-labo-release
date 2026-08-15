@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.21",
+          "buildVersion": "29",
+          "date": "2026-08-15T11:57:16Z",
+          "localizedDescription": "バージョン 0.1.21 (build 29)。機能内容は build 28 と同一・保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.21/HorseLabo-0.1.21-build29.ipa",
+          "size": 4313983,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.20",
           "buildVersion": "28",
           "date": "2026-08-14T23:37:37Z",
@@ -271,10 +280,10 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.20",
-      "versionDate": "2026-08-14T23:37:37Z",
-      "versionDescription": "バージョン 0.1.20 (build 28)。プロット座標系を統一（旧プロットの点・線は再登録が必要／他のデータは維持）。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.20/HorseLabo-0.1.20-build28.ipa",
+      "version": "0.1.21",
+      "versionDate": "2026-08-15T11:57:16Z",
+      "versionDescription": "バージョン 0.1.21 (build 29)。機能内容は build 28 と同一・保存データは維持されます。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.21/HorseLabo-0.1.21-build29.ipa",
       "size": 4313983,
       "minOSVersion": "16.0"
     }
