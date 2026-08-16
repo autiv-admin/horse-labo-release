@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.23",
+          "buildVersion": "31",
+          "date": "2026-08-16T17:08:26Z",
+          "localizedDescription": "バージョン 0.1.23 (build 31)。iOSでのYouTube再生修正・iOS取得経路の判定厳密化。保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.23/HorseLabo-0.1.23-build31.ipa",
+          "size": 4332028,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "30",
           "date": "2026-08-16T15:18:56Z",
@@ -289,11 +298,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.22",
-      "versionDate": "2026-08-16T15:18:56Z",
-      "versionDescription": "バージョン 0.1.22 (build 30)。全画面の戻る操作・写真の拡大表示・血統AI出力の整理・カタログ動画URLの正規化。保存データは維持されます。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.22/HorseLabo-0.1.22-build30.ipa",
-      "size": 4320959,
+      "version": "0.1.23",
+      "versionDate": "2026-08-16T17:08:26Z",
+      "versionDescription": "バージョン 0.1.23 (build 31)。iOSでのYouTube再生修正・iOS取得経路の判定厳密化。保存データは維持されます。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.23/HorseLabo-0.1.23-build31.ipa",
+      "size": 4332028,
       "minOSVersion": "16.0"
     }
   ],
