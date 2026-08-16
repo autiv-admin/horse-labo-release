@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.22",
+          "buildVersion": "30",
+          "date": "2026-08-16T15:18:56Z",
+          "localizedDescription": "バージョン 0.1.22 (build 30)。全画面の戻る操作・写真の拡大表示・血統AI出力の整理・カタログ動画URLの正規化。保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.22/HorseLabo-0.1.22-build30.ipa",
+          "size": 4320959,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.21",
           "buildVersion": "29",
           "date": "2026-08-15T11:57:16Z",
@@ -280,11 +289,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.21",
-      "versionDate": "2026-08-15T11:57:16Z",
-      "versionDescription": "バージョン 0.1.21 (build 29)。機能内容は build 28 と同一・保存データは維持されます。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.21/HorseLabo-0.1.21-build29.ipa",
-      "size": 4313983,
+      "version": "0.1.22",
+      "versionDate": "2026-08-16T15:18:56Z",
+      "versionDescription": "バージョン 0.1.22 (build 30)。全画面の戻る操作・写真の拡大表示・血統AI出力の整理・カタログ動画URLの正規化。保存データは維持されます。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.22/HorseLabo-0.1.22-build30.ipa",
+      "size": 4320959,
       "minOSVersion": "16.0"
     }
   ],
