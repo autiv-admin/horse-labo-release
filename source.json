@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.24",
+          "buildVersion": "32",
+          "date": "2026-08-17T11:52:35Z",
+          "localizedDescription": "バージョン 0.1.24 (build 32)。保存の信頼性改善（AI評価・ベース設定が消えない／誤った失敗表示の解消）・カタログ連続取込の修正。保存データは維持されます。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.24/HorseLabo-0.1.24-build32.ipa",
+          "size": 4336182,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.23",
           "buildVersion": "31",
           "date": "2026-08-16T17:08:26Z",
@@ -298,11 +307,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.23",
-      "versionDate": "2026-08-16T17:08:26Z",
-      "versionDescription": "バージョン 0.1.23 (build 31)。iOSでのYouTube再生修正・iOS取得経路の判定厳密化。保存データは維持されます。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.23/HorseLabo-0.1.23-build31.ipa",
-      "size": 4332028,
+      "version": "0.1.24",
+      "versionDate": "2026-08-17T11:52:35Z",
+      "versionDescription": "バージョン 0.1.24 (build 32)。保存の信頼性改善（AI評価・ベース設定が消えない／誤った失敗表示の解消）・カタログ連続取込の修正。保存データは維持されます。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.24/HorseLabo-0.1.24-build32.ipa",
+      "size": 4336182,
       "minOSVersion": "16.0"
     }
   ],
