@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.25",
+          "buildVersion": "34",
+          "date": "2026-08-17T22:08:21Z",
+          "localizedDescription": "バージョン 0.1.25 (build 34)",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.25/HorseLabo-0.1.25-build34.ipa",
+          "size": 4348910,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.24",
           "buildVersion": "32",
           "date": "2026-08-17T11:52:35Z",
@@ -307,11 +316,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.24",
-      "versionDate": "2026-08-17T11:52:35Z",
-      "versionDescription": "バージョン 0.1.24 (build 32)。保存の信頼性改善（AI評価・ベース設定が消えない／誤った失敗表示の解消）・カタログ連続取込の修正。保存データは維持されます。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.24/HorseLabo-0.1.24-build32.ipa",
-      "size": 4336182,
+      "version": "0.1.25",
+      "versionDate": "2026-08-17T22:08:21Z",
+      "versionDescription": "バージョン 0.1.25 (build 34)",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.25/HorseLabo-0.1.25-build34.ipa",
+      "size": 4348910,
       "minOSVersion": "16.0"
     }
   ],
