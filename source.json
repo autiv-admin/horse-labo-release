@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.27",
+          "buildVersion": "36",
+          "date": "2026-08-19T08:41:03Z",
+          "localizedDescription": "バージョン 0.1.27 (build 36)",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.27/HorseLabo-0.1.27-build36.ipa",
+          "size": 4360750,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.26",
           "buildVersion": "35",
           "date": "2026-08-18T12:09:04Z",
@@ -325,11 +334,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.26",
-      "versionDate": "2026-08-18T12:09:04Z",
-      "versionDescription": "バージョン 0.1.26 (build 35)",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.26/HorseLabo-0.1.26-build35.ipa",
-      "size": 4356576,
+      "version": "0.1.27",
+      "versionDate": "2026-08-19T08:41:03Z",
+      "versionDescription": "バージョン 0.1.27 (build 36)",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.27/HorseLabo-0.1.27-build36.ipa",
+      "size": 4360750,
       "minOSVersion": "16.0"
     }
   ],
