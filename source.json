@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.29",
+          "buildVersion": "39",
+          "date": "2026-09-01T12:59:30Z",
+          "localizedDescription": "バージョン 0.1.29 (build 39)：保存の全書き/中断回復・まとめ読み・端末バックアップ・安全なURL・端末内サーバーのローカル限定。登録データは維持。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.29/HorseLabo-0.1.29-build39.ipa",
+          "size": 4470380,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.28",
           "buildVersion": "38",
           "date": "2026-08-19T10:40:26Z",
@@ -343,11 +352,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.28",
-      "versionDate": "2026-08-19T10:40:26Z",
-      "versionDescription": "バージョン 0.1.28 (build 38)",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.28/HorseLabo-0.1.28-build38.ipa",
-      "size": 4360747,
+      "version": "0.1.29",
+      "versionDate": "2026-09-01T12:59:30Z",
+      "versionDescription": "バージョン 0.1.29 (build 39)：保存の全書き/中断回復・まとめ読み・端末バックアップ・安全なURL・端末内サーバーのローカル限定。登録データは維持。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.29/HorseLabo-0.1.29-build39.ipa",
+      "size": 4470380,
       "minOSVersion": "16.0"
     }
   ],
