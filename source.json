@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.30",
+          "buildVersion": "40",
+          "date": "2026-09-02T17:14:41Z",
+          "localizedDescription": "バージョン 0.1.30 (build 40)：完全バックアップと完全復元（災害復旧）に対応。全データを .hlbackup へ書き出し・元どおり復元。登録データは維持。",
+          "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.30/HorseLabo-0.1.30-build40.ipa",
+          "size": 4539584,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.29",
           "buildVersion": "39",
           "date": "2026-09-01T12:59:30Z",
@@ -352,11 +361,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.29",
-      "versionDate": "2026-09-01T12:59:30Z",
-      "versionDescription": "バージョン 0.1.29 (build 39)：保存の全書き/中断回復・まとめ読み・端末バックアップ・安全なURL・端末内サーバーのローカル限定。登録データは維持。",
-      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.29/HorseLabo-0.1.29-build39.ipa",
-      "size": 4470380,
+      "version": "0.1.30",
+      "versionDate": "2026-09-02T17:14:41Z",
+      "versionDescription": "バージョン 0.1.30 (build 40)：完全バックアップと完全復元（災害復旧）に対応。全データを .hlbackup へ書き出し・元どおり復元。登録データは維持。",
+      "downloadURL": "https://github.com/autiv-admin/horse-labo-release/releases/download/v0.1.30/HorseLabo-0.1.30-build40.ipa",
+      "size": 4539584,
       "minOSVersion": "16.0"
     }
   ],
