@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "build": 43,
+  "notes": "Ad Hoc 配布の最初の版です。設定の表示を v1.0.0 に揃え、アプリ内で新しい版をお知らせする機能を追加しました。",
+  "publishedAt": "2026-10-07T08:58:22Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build43/HorseLabo-1.0.0-build43-adhoc.ipa",
+  "sha256": "94c41c2b33daeb7aa931dcb49c176f55f9603188aefde66ff2aead9cb301ade6",
+  "size": 4579348,
+  "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
+}
