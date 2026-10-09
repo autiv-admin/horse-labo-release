@@ -7,7 +7,7 @@
     <dict>
       <key>assets</key>
       <array>
-        <dict><key>kind</key><string>software-package</string><key>url</key><string>https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build44/HorseLabo-1.0.0-build44-adhoc.ipa</string></dict>
+        <dict><key>kind</key><string>software-package</string><key>url</key><string>https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build45/HorseLabo-1.0.0-build45-adhoc.ipa</string></dict>
         <dict><key>kind</key><string>display-image</string><key>url</key><string>https://autiv-admin.github.io/horse-labo-release/assets/icon.png</string></dict>
         <dict><key>kind</key><string>full-size-image</string><key>url</key><string>https://autiv-admin.github.io/horse-labo-release/assets/icon.png</string></dict>
       </array>

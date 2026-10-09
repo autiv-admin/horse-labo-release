@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 44,
-  "notes": "オンラインカタログの測尺PDF取込で、馬体重の列が無い測尺一覧表（AUTUMN SALE など）も読めるようにしました。",
-  "publishedAt": "2026-10-09T07:01:08Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build44/HorseLabo-1.0.0-build44-adhoc.ipa",
-  "sha256": "05e26bd6dbd9ac7ad53683314f0648d25bd946e04302ed376bb73f8f3bee3e86",
-  "size": 4579715,
+  "build": 45,
+  "notes": "公表事項取込の改善、ホースデータの枠の表示/非表示・並べ替え、血統情報①②の切替、公表事項の行表示、馬体重の自動入力の修正",
+  "publishedAt": "2026-10-09T12:14:38Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build45/HorseLabo-1.0.0-build45-adhoc.ipa",
+  "sha256": "2910e3cd3bc2c46f560bcb4635c698e288084df8dcaf9e2f275d0285e718a9ad",
+  "size": 4606899,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
