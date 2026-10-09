@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 43,
-  "notes": "Ad Hoc 配布の最初の版です。設定の表示を v1.0.0 に揃え、アプリ内で新しい版をお知らせする機能を追加しました。",
-  "publishedAt": "2026-10-07T08:58:22Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build43/HorseLabo-1.0.0-build43-adhoc.ipa",
-  "sha256": "94c41c2b33daeb7aa931dcb49c176f55f9603188aefde66ff2aead9cb301ade6",
-  "size": 4579348,
+  "build": 44,
+  "notes": "オンラインカタログの測尺PDF取込で、馬体重の列が無い測尺一覧表（AUTUMN SALE など）も読めるようにしました。",
+  "publishedAt": "2026-10-09T07:01:08Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build44/HorseLabo-1.0.0-build44-adhoc.ipa",
+  "sha256": "05e26bd6dbd9ac7ad53683314f0648d25bd946e04302ed376bb73f8f3bee3e86",
+  "size": 4579715,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
