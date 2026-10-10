@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 46,
-  "notes": "公表事項取込のイレギュラー対策、写真の拡大表示を閉じられない不具合、プロット登録/編集ボタン、馬体重の表示名、iPad/iPhone の YouTube 再生と動画枠",
-  "publishedAt": "2026-10-10T11:00:07Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build46/HorseLabo-1.0.0-build46-adhoc.ipa",
-  "sha256": "a567b699e6938d296f2b6c280a30066c3dbc2f84638aa0c168437f543d17a86e",
-  "size": 4631588,
+  "build": 47,
+  "notes": "iPad/iPhone の YouTube（エラー152-4）の修正、AI 自動入力の「自動登録」ボタンを戻す",
+  "publishedAt": "2026-10-10T12:11:21Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build47/HorseLabo-1.0.0-build47-adhoc.ipa",
+  "sha256": "65a85e0cba31e4f4f3bd3ac9227f6414bad2f0de69dd3a803f3da79ae2fea7a7",
+  "size": 4631538,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
