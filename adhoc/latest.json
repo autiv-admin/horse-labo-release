@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 45,
-  "notes": "公表事項取込の改善、ホースデータの枠の表示/非表示・並べ替え、血統情報①②の切替、公表事項の行表示、馬体重の自動入力の修正",
-  "publishedAt": "2026-10-09T12:14:38Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build45/HorseLabo-1.0.0-build45-adhoc.ipa",
-  "sha256": "2910e3cd3bc2c46f560bcb4635c698e288084df8dcaf9e2f275d0285e718a9ad",
-  "size": 4606899,
+  "build": 46,
+  "notes": "公表事項取込のイレギュラー対策、写真の拡大表示を閉じられない不具合、プロット登録/編集ボタン、馬体重の表示名、iPad/iPhone の YouTube 再生と動画枠",
+  "publishedAt": "2026-10-10T11:00:07Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build46/HorseLabo-1.0.0-build46-adhoc.ipa",
+  "sha256": "a567b699e6938d296f2b6c280a30066c3dbc2f84638aa0c168437f543d17a86e",
+  "size": 4631588,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
