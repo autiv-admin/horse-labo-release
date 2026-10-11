@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 48,
-  "notes": "ホースデータの「プロット登録/編集」を写真があれば常に表示／登録/編集の「自動登録」の実行ボタンが押せない不具合を修正／馬体プロット作成でベースの自動・手動を切り替え、手動でベース全体を移動・拡大縮小・360 度回転／取込履歴の「バッチ＋馬を削除」で既存の馬を消さないよう修正／起動時の「もう一度試す」の後に既存データが初期値で上書きされる不具合を修正",
-  "publishedAt": "2026-10-11T17:34:48Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build48/HorseLabo-1.0.0-build48-adhoc.ipa",
-  "sha256": "dc60022ae6814e70c9923e9c047d9c89bb8559cee07244efd277a17269994e0d",
-  "size": 4642079,
+  "build": 49,
+  "notes": "ホースデータの写真下部にベース選択・ベース手動/自動・ベース画像表示/非表示を追加（マニュアルプロットが無くてもベースを手動で調整できる）／ベース手動中は写真を動かさずベースだけを動かす／ホースデータの画像透明度が 100% でも半透明だった不具合を修正／ベース自動・手動ボタンの文言を押すと切り替わる先に／登録/編集で新しく入れた URL の写真を端末に保存（URL に依存しない）",
+  "publishedAt": "2026-10-11T18:48:10Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build49/HorseLabo-1.0.0-build49-adhoc.ipa",
+  "sha256": "e4fe3105b61c0ea0c06639b2e1692e963a0e85eb1827125f7c1a605f0cda1494",
+  "size": 4652624,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
