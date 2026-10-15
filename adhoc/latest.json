@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 49,
-  "notes": "ホースデータの写真下部にベース選択・ベース手動/自動・ベース画像表示/非表示を追加（マニュアルプロットが無くてもベースを手動で調整できる）／ベース手動中は写真を動かさずベースだけを動かす／ホースデータの画像透明度が 100% でも半透明だった不具合を修正／ベース自動・手動ボタンの文言を押すと切り替わる先に／登録/編集で新しく入れた URL の写真を端末に保存（URL に依存しない）",
-  "publishedAt": "2026-10-11T18:48:10Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build49/HorseLabo-1.0.0-build49-adhoc.ipa",
-  "sha256": "e4fe3105b61c0ea0c06639b2e1692e963a0e85eb1827125f7c1a605f0cda1494",
-  "size": 4652624,
+  "build": 50,
+  "notes": "ホースデータの資料枠でブラックタイプが白いままになる不具合を修正（端末に保存した PDF を先に表示、表示できないときは案内と「別タブで開く」）／登録/編集でブラックタイプ URL を空にして保存できない・AI 自動入力の URL が保存で戻る・古い形式の資料を持つ馬で保存が止まる不具合を修正",
+  "publishedAt": "2026-10-15T01:09:41Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build50/HorseLabo-1.0.0-build50-adhoc.ipa",
+  "sha256": "527a093a98f479a0d4e99e70387ef60c44a6ad94601fa644c60e01f01a603e5f",
+  "size": 4656865,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
