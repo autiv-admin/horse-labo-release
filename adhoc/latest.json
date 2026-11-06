@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "build": 51,
-  "notes": "1 頭を保存すると無関係の馬の保存データまで書き直される不具合を修正／測尺PDF取込のプレビューと結果画面に「反映しなかった馬」（上場番号・馬名・理由: 欠場・該当馬なし・重複・既存値あり・PDFに値なし など）を表示",
-  "publishedAt": "2026-10-16T07:57:24Z",
-  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build51/HorseLabo-1.0.0-build51-adhoc.ipa",
-  "sha256": "e0e5497d7693f4639cf5190a6899f09f23f966604ced3cb423760b65baa00146",
-  "size": 4660872,
+  "build": 52,
+  "notes": "検索欄にかなで入力すると文字が重なる不具合を直しました。",
+  "publishedAt": "2026-11-06T12:07:53Z",
+  "ipa": "https://github.com/autiv-admin/horse-labo-release/releases/download/adhoc-v1.0.0-build52/HorseLabo-1.0.0-build52-adhoc.ipa",
+  "sha256": "5462d5471afd983df30848cdfd8b655a41e129d5423cf0f394624e01659211d5",
+  "size": 4661410,
   "installPage": "https://autiv-admin.github.io/horse-labo-release/adhoc/"
 }
